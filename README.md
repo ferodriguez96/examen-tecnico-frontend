@@ -1,5 +1,11 @@
 
 ## Como correr el proyecto:
+Primero hay que ejecutar:
+```
+npm install
+ ```
+
+luego levantar el proyecto con:
 
 ```bash
 npm run dev
